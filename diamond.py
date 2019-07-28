@@ -10,4 +10,4 @@ while(spaces >= 0):
     if i == 0:
         continue
     print(" " * innerspace + "*")
-    
+    #added a line
